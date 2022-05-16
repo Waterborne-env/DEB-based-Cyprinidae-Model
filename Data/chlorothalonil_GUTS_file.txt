@@ -1,0 +1,10 @@
+Fathead minnows exposed to chlorothalonil since egg stage, constant chronic exposure. Data from Schults et al 1980 report. Consider same number of individual at hatching. Time data refer to days post-hatch
+Survival time [d]	Control	T1	T2	T3	T4	T5
+0	100	100	100	100	100	100
+35	95	99	100	94	94	9
+64	93	99	97	92	92	8
+172	88	92	93	76	88	7
+283	88	92	87	76	88	7
+Concentration unit:	uM					
+Concentration time [d]	Control	T1	T2	T3	T4	T5
+0	0	0.6	1.4	3	6.5	16
